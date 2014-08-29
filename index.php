@@ -15,5 +15,10 @@ define('WP_USE_THEMES', true);
 
 /** Loads the WordPress Environment and Template */
 require( dirname( __FILE__ ) . '/wp-blog-header.php' );
+<<<<<<< HEAD
+trung test here
+trung test 2
+=======
 
 echo 'aaaaa';
+>>>>>>> 9305726c234540c8305e0b95fc8f3078b81cfe02
