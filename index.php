@@ -20,5 +20,8 @@ trung test here
 trung test 2
 =======
 
-echo 'aaaaa';
+echo 'aaaaa33433';
 >>>>>>> 9305726c234540c8305e0b95fc8f3078b81cfe02
+dffdsfdsfdfdsf
+sd3254233452
+3242yerfdsfdsfdss
